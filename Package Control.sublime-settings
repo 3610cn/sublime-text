@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"Colorsublime",
+		"DocBlockr",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Package Control",
+		"React Templates",
+		"ReactJS",
+		"Search Stack Overflow",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeTmpl"
+	]
+}
